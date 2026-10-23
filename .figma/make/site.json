@@ -1,0 +1,10 @@
+{
+  "description": "Showcase sponsors with an interactive marquee and a structured multi-step partnership inquiry form, enhancing engagement and visibility for potential sponsors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
