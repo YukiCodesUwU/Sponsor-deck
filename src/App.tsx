@@ -39,7 +39,7 @@ function Icon({ name, size = 20 }: { name: IconName size?: number }) {
 function BrandMark() {
   return (
     <span className="brand-mark">
-      <img alt="" src="/gdg-mark.png" />
+      <img alt="GDG logo" src="/gdg-logo.png" />
     </span>
   )
 }
