@@ -8,7 +8,7 @@ import { sponsors, sponsorStoryPlaceholders } from "./content"
 
 type IconName = "arrow" | "check"
 
-function Icon({ name, size = 20 }: { name: IconName size?: number }) {
+function Icon({ name, size = 20 }: { name: IconName; size?: number }) {
   const paths: Record<IconName, React.ReactNode> = {
     arrow: (
       <>
